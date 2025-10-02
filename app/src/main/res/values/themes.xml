@@ -12,7 +12,7 @@
         <item name="colorTertiaryContainer">@color/gray</item>
         <item name="colorOnTertiaryContainer">@color/white</item>
         <item name="colorError">@color/red</item>
-        <item name="android:fontFamily">@font/FunnelSans</item>
+        <item name="android:fontFamily">@font/funnelsans</item>
     </style>
 
     <style name="Theme.Actividad7" parent="Base.Theme.Actividad7" />

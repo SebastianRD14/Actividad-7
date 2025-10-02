@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Actividad7</string>
+    <string name="titulo_main">🛒 Explorador de Productos</string>
+    <string name="titulo_producto">Nombre del Producto</string>
+    <string name="titulo_description">Descripción del Producto</string>
+    <string name="btn_view_product">🌐 Ver en Web</string>
+    <string name="imagen_producto">Imagen del Producto</string>"
 </resources>
