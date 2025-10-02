@@ -28,10 +28,13 @@ Gracias a los intents pude ver como poder acceder a diferentes activities y apli
 ## 📸 Capturas de Pantalla
 ## Pantalla principal
 <img width="473" height="867" alt="image" src="https://github.com/user-attachments/assets/a90296fe-9b71-4a56-a4d7-ca94943bca27" />
+
 ## Eligiendo producto
 <img width="510" height="856" alt="image" src="https://github.com/user-attachments/assets/070150b6-6098-4d41-a9ce-028f8f391fea" />
+
 ## Producto en el Navegador web
 <img width="466" height="867" alt="image" src="https://github.com/user-attachments/assets/2f63a3b7-cef5-412f-a5b3-c0fdc517584c" />
+
 ## Volviendo a la Pantalla principal
 <img width="415" height="867" alt="image" src="https://github.com/user-attachments/assets/09544c8b-a2e6-4a1d-8343-88cfa777a0cb" />
 
